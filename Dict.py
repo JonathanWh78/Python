@@ -6,3 +6,5 @@ Games["God of War"] = "CD Prjeckt Red"
 
 print(Games)
 
+GoodGame = Games["God of War"]
+print (GoodGame)
