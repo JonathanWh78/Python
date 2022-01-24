@@ -4,6 +4,8 @@ word3 = "John"
 
 Sentence = ( word1 + " " + word2 + " " + word3)
 
+print (Sentence)
+
 name = "Ralf"
 age = 10
 bark = True
@@ -12,8 +14,6 @@ tweet = False
 print("My pet is called", name, ", He is", age, "years old.")
 print("Statement:", name, "barks.", bark)
 print("Statement:", name, "tweets.", tweet)
-
-print (Sentence)
 
 number1 = input("Enter whole number: ")
 number2 = input("Enter decimal number: ")
